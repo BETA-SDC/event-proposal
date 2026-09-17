@@ -1,0 +1,42 @@
+name: 消息归档
+description: 归档已经正式发送的邮件、群聊通知或宣传文案
+title: "[message] "
+labels:
+  - message
+body:
+  - type: markdown
+    attributes:
+      value: |
+        正式发送后创建此类 Sub-issue。请保留完整文案，不要只写摘要或发送结果。
+  - type: textarea
+    id: content
+    attributes:
+      label: 已发送文案
+      description: 请粘贴完整内容。
+    validations:
+      required: true
+  - type: input
+    id: channel
+    attributes:
+      label: 发送渠道
+      placeholder: 邮件、微信群、飞书群、公众号等
+    validations:
+      required: true
+  - type: input
+    id: sent-at
+    attributes:
+      label: 发送时间
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+  - type: input
+    id: sender
+    attributes:
+      label: 发送人
+      placeholder: "@用户名"
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: 截图、链接或收件范围

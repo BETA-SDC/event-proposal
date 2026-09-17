@@ -1,0 +1,60 @@
+name: 活动主 Issue
+description: 创建一个活动或需要多人协作推进的事项
+title: "[event] "
+labels:
+  - event
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请填写活动的基本信息。后续可以在本 Issue 下创建任务类 Sub-issue，并 assign 给对应成员。
+  - type: input
+    id: event-name
+    attributes:
+      label: 活动名称
+      placeholder: 例如：Math Help Room
+    validations:
+      required: true
+  - type: textarea
+    id: background
+    attributes:
+      label: 活动目的和背景
+      placeholder: 请说明为什么要举办这个活动，以及希望达成什么目标。
+    validations:
+      required: true
+  - type: textarea
+    id: schedule
+    attributes:
+      label: 时间、地点和形式
+      placeholder: |
+        时间：
+        地点：
+        形式：
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: 初步负责人
+      placeholder: "@用户名"
+    validations:
+      required: true
+  - type: textarea
+    id: collaborators
+    attributes:
+      label: 相关成员
+      description: 请 @ 需要参与讨论、审批或执行的成员。
+      placeholder: "@用户名1 @用户名2"
+  - type: textarea
+    id: materials
+    attributes:
+      label: 需要准备的材料
+      placeholder: |
+        - 海报
+        - 报名表
+        - 邮件或群聊通知
+  - type: textarea
+    id: deadlines
+    attributes:
+      label: 关键截止时间
+      placeholder: 请使用 YYYY-MM-DD 格式。

@@ -1,0 +1,34 @@
+name: 任务分配
+description: 创建一个可独立推进并分配给成员的具体任务
+title: "[task] "
+labels:
+  - task
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请将一个可以独立推进、检查和关闭的工作拆成一个 Sub-issue，并在右侧 Assignees 中分配负责人。
+  - type: textarea
+    id: task
+    attributes:
+      label: 任务内容
+      placeholder: 请具体说明要完成什么。
+    validations:
+      required: true
+  - type: textarea
+    id: deliverable
+    attributes:
+      label: 交付物和完成标准
+      placeholder: 完成后应产出什么，如何确认已经完成？
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: 截止时间
+      placeholder: YYYY-MM-DD
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: 依赖和相关链接
+      placeholder: 请列出所需材料、前置确认或相关 Issue。

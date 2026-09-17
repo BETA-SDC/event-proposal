@@ -1,0 +1,39 @@
+name: 内部改进提议
+description: 提议改进组织内部流程、制度、工具或协作方式
+title: "[improvement] "
+labels:
+  - internal-improvement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        如果核心是“我们以后应该怎么做”，请选择这个模板。若只是维护已有文档，请使用文档维护模板。
+  - type: textarea
+    id: problem
+    attributes:
+      label: 当前问题
+      description: 现在的流程或协作方式有什么问题？
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 改进提议
+      description: 请描述建议采用的新做法。
+    validations:
+      required: true
+  - type: textarea
+    id: benefits
+    attributes:
+      label: 预期效果
+      placeholder: 这个改进会带来什么帮助？
+  - type: textarea
+    id: implementation
+    attributes:
+      label: 实施方式
+      placeholder: 是否需要修改文档、创建任务或安排试运行？
+  - type: input
+    id: proposer
+    attributes:
+      label: 提议人
+      placeholder: "@用户名"

@@ -1,0 +1,28 @@
+name: 活动收尾
+description: 记录活动结束后的复盘、素材整理和后续事项
+title: "[wrap-up] "
+labels:
+  - wrap-up
+body:
+  - type: textarea
+    id: result
+    attributes:
+      label: 活动结果
+      placeholder: 是否如期举行？参与人数和实际反馈如何？
+    validations:
+      required: true
+  - type: textarea
+    id: materials
+    attributes:
+      label: 素材位置
+      placeholder: 请填写照片、视频、文档或其他素材的位置和链接。
+  - type: textarea
+    id: review
+    attributes:
+      label: 复盘记录
+      placeholder: 哪些地方做得好，哪些问题需要改进？
+  - type: textarea
+    id: follow-up
+    attributes:
+      label: 后续事项
+      placeholder: 是否需要创建新的任务或内部改进提议？
