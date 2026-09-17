@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: 活动建立流程
     url: https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.zh.md
