@@ -9,8 +9,6 @@ body:
     attributes:
       label: 活动结果
       placeholder: 是否如期举行？参与人数和实际反馈如何？
-    validations:
-      required: true
   - type: textarea
     id: materials
     attributes:

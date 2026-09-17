@@ -7,21 +7,17 @@ body:
   - type: markdown
     attributes:
       value: |
-        如果核心是“我们以后应该怎么做”，请选择这个模板。若只是维护已有文档，请使用文档维护模板。
+        如果核心是“我们以后应该怎么做”，请选择这个模板。若只是维护已有文档，请使用文档维护模板。可以先写下不完整的想法，后续在讨论中补充。
   - type: textarea
     id: problem
     attributes:
       label: 当前问题
       description: 现在的流程或协作方式有什么问题？
-    validations:
-      required: true
   - type: textarea
     id: proposal
     attributes:
       label: 改进提议
       description: 请描述建议采用的新做法。
-    validations:
-      required: true
   - type: textarea
     id: benefits
     attributes:

@@ -8,7 +8,7 @@ body:
     id: question
     attributes:
       label: 问题或待确认事项
-      placeholder: 请清楚描述需要讨论或确认的内容。
+      placeholder: 请写下需要讨论或确认的内容，简短描述也可以。
     validations:
       required: true
   - type: textarea

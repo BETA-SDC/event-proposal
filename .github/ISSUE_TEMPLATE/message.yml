@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        正式发送后创建此类 Sub-issue。请保留完整文案，不要只写摘要或发送结果。
+        正式发送后创建此类 Sub-issue。尽量保留完整文案；如果部分发送信息暂时未知，可以后续补充。
   - type: textarea
     id: content
     attributes:
@@ -20,22 +20,16 @@ body:
     attributes:
       label: 发送渠道
       placeholder: 邮件、微信群、飞书群、公众号等
-    validations:
-      required: true
   - type: input
     id: sent-at
     attributes:
       label: 发送时间
       placeholder: YYYY-MM-DD
-    validations:
-      required: true
   - type: input
     id: sender
     attributes:
       label: 发送人
       placeholder: "@用户名"
-    validations:
-      required: true
   - type: textarea
     id: references
     attributes:

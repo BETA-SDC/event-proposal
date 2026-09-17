@@ -7,21 +7,17 @@ body:
   - type: markdown
     attributes:
       value: |
-        如果核心是改变组织以后做事的方式，请使用“内部改进提议”模板；本模板只用于维护已有文档。
+        如果核心是改变组织以后做事的方式，请使用“内部改进提议”模板；本模板只用于维护已有文档。可以先记录问题，具体修改内容后续补充。
   - type: input
     id: document
     attributes:
       label: 目标文档
       placeholder: 文档路径或链接
-    validations:
-      required: true
   - type: textarea
     id: change
     attributes:
       label: 需要修改的内容
       placeholder: 请说明需要修正、补充或整理的部分。
-    validations:
-      required: true
   - type: textarea
     id: reason
     attributes:
