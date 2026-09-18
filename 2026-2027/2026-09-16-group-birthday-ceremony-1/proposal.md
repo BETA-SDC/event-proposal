@@ -58,7 +58,7 @@
 | 05 | 果切（西瓜、哈密瓜） | 8+8 | 15、12 | 196 | 食品 | 天猫超市 |
 |  | **总预算** |  |  | **1824.87** |  |  |
 
-花销核对：[发票与报销明细](https://github.com/BETA-SDC/invoice/blob/main/2026/09/2026-09-16-group-birthday-ceremonny/README.md)
+花销核对：[发票与报销明细](https://github.com/BETA-SDC/invoice/blob/main/2026/09/2026-09-16-group-birthday-ceremony/README.md)
 
 签字：刘嘉豪
 
