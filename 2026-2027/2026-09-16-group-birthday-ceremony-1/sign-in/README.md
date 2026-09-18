@@ -17,11 +17,11 @@
 
 | 文件 | 内容 |
 | --- | --- |
-| `00_summary.csv` | 各类别人数 |
-| `01_registered_attended.csv` | 报名且到场，签到标记为 1 的 30 人 |
-| `02_registered_absent.csv` | 报名未到场，签到标记为 0 的 13 人 |
-| `03_registered_cancelled.csv` | 报名后临时取消，签到标记为 -1 的 1 人 |
-| `04_unregistered_attended.csv` | 未报名但到场的 19 人 |
+| `00-summary.csv` | 各类别人数 |
+| `01-registered-attended.csv` | 报名且到场，签到标记为 1 的 30 人 |
+| `02-registered-absent.csv` | 报名未到场，签到标记为 0 的 13 人 |
+| `03-registered-cancelled.csv` | 报名后临时取消，签到标记为 -1 的 1 人 |
+| `04-unregistered-attended.csv` | 未报名但到场的 19 人 |
 
 ## 说明
 
