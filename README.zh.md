@@ -1,5 +1,7 @@
 # 活动提案与材料仓库
 
+中文 | [English](./README.md)
+
 > [!IMPORTANT]
 > 开始创建活动、分配任务或准备材料前，请先认真阅读 [community 仓库中的活动建立规范流程](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.zh.md)。如果活动涉及拍摄、素材交付或后续宣传，还应阅读 [素材拍摄与交付规范](https://github.com/BETA-SDC/community/blob/main/docs/procedures/media-capture-guidelines.zh.md)。
 
