@@ -46,26 +46,26 @@ Activity materials are usually stored under the corresponding academic year dire
 Directory naming format:
 
 ```text
-SERIES-two-digit-session-specific-topic
+YYYY-MM-DD-SERIES-two-digit-session[-specific-topic]
 ```
 
 Examples:
 
-- [`2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/)
-- [`2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/)
-- [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/)
+- [`2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/`](./2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/)
+- [`2026-2027/2026-09-09-MATH-HELP-ROOM-01/`](./2026-2027/2026-09-09-MATH-HELP-ROOM-01/)
+- [`2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/)
 
-Series activities use an uppercase series code and a two-digit session number, such as `BETA-MEET-01`. Non-series activities may use a concise lowercase topic directory, such as [`2026-2027/self-study-check-in/`](./2026-2027/self-study-check-in/).
+Series activities use the date, an uppercase series code, and a two-digit session number, such as `2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist`. The topic may be omitted when the series name and session number are already clear, such as `2026-09-09-MATH-HELP-ROOM-01`. Non-series activities may use `YYYY-MM-DD-specific-topic`, such as [`2026-2027/2026-09-19-self-study-check-in/`](./2026-2027/2026-09-19-self-study-check-in/).
 
 ## Activity Material Files
 
 Each activity directory may contain the following files as needed:
 
-- [`README.md`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/README.md): activity directory overview with a main Issue link
-- [`proposal.md`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/proposal.md): activity proposal or activity description, for example [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/proposal.md`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/proposal.md)
-- [`poster-information.md`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/poster-information.md): poster information form, for example [`2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md)
-- [`notification-message.md`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/notification-message.md): optional notification copy draft or backup
-- [`sign-in/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/): sign-in, registration, and participation data directory, for example [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/)
+- [`README.md`](./2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/README.md): activity directory overview with a main Issue link
+- [`proposal.md`](./2026-2027/2026-09-09-MATH-HELP-ROOM-01/proposal.md): activity proposal or activity description, for example [`2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/proposal.md`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/proposal.md)
+- [`poster-information.md`](./2026-2027/2026-09-09-MATH-HELP-ROOM-01/poster-information.md): poster information form, for example [`2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md`](./2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md)
+- [`notification-message.md`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/notification-message.md): optional notification copy draft or backup
+- [`sign-in/`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/sign-in/): sign-in, registration, and participation data directory, for example [`2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/sign-in/`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/sign-in/)
 
 Different activities only need the files they actually use. Do not create empty files just to match this list.
 

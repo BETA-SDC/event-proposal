@@ -45,26 +45,26 @@
 目录命名格式：
 
 ```text
-SERIES-两位期数-specific-topic
+YYYY-MM-DD-SERIES-两位期数[-specific-topic]
 ```
 
 示例：
 
-- [`2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/)
-- [`2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/)
-- [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/)
+- [`2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/`](./2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/)
+- [`2026-2027/2026-09-09-MATH-HELP-ROOM-01/`](./2026-2027/2026-09-09-MATH-HELP-ROOM-01/)
+- [`2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/)
 
-系列活动使用全大写系列代号和两位期数，例如 `BETA-MEET-01`。非系列活动可以使用简洁的小写主题目录，例如 [`2026-2027/self-study-check-in/`](./2026-2027/self-study-check-in/)。
+系列活动使用日期、全大写系列代号和两位期数，例如 `2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist`。如果系列名和期数已经足够清楚，可以省略本期主题，例如 `2026-09-09-MATH-HELP-ROOM-01`。非系列活动可以使用 `YYYY-MM-DD-specific-topic`，例如 [`2026-2027/2026-09-19-self-study-check-in/`](./2026-2027/2026-09-19-self-study-check-in/)。
 
 ## 活动材料文件
 
 每个活动目录中可根据需要保存以下文件：
 
-- [`README.md`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/README.md)：活动目录说明，并链接主 Issue
-- [`proposal.md`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/proposal.md)：活动策划案或活动说明，例如 [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/proposal.md`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/proposal.md)
-- [`poster-information.md`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/poster-information.md)：海报信息表，例如 [`2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md)
-- [`notification-message.md`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/notification-message.md)：可选的通知文案草稿或备份
-- [`sign-in/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/)：签到、报名和参与情况数据目录，例如 [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/)
+- [`README.md`](./2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/README.md)：活动目录说明，并链接主 Issue
+- [`proposal.md`](./2026-2027/2026-09-09-MATH-HELP-ROOM-01/proposal.md)：活动策划案或活动说明，例如 [`2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/proposal.md`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/proposal.md)
+- [`poster-information.md`](./2026-2027/2026-09-09-MATH-HELP-ROOM-01/poster-information.md)：海报信息表，例如 [`2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md`](./2026-2027/2026-09-29-BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md)
+- [`notification-message.md`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/notification-message.md)：可选的通知文案草稿或备份
+- [`sign-in/`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/sign-in/)：签到、报名和参与情况数据目录，例如 [`2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/sign-in/`](./2026-2027/2026-09-16-GROUP-BIRTHDAY-01-2026-fall/sign-in/)
 
 不同活动可以只保留实际需要的文件，不需要为了凑齐列表而创建空文件。
 
