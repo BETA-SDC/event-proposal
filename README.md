@@ -1,1 +1,5 @@
-**请先认真阅读[操作指南](https://westlakeu.sharepoint.com/sites/beta-college/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fbeta%2Dcollege%2FShared%20Documents%2FShared%20Files%2FSDC%20GitHub%20%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97&viewid=d7b56f3d%2D103b%2D478c%2Daa1d%2D97087a8cbf18&FolderCTID=0x012000773BFB9DEDBF454BA1E6C4F44365BB91)后再进行操作!**
+# Event Proposal
+
+请先阅读 [中文说明](./README.zh.md)。
+
+创建活动、分配任务或准备材料前，请先认真阅读 [community 仓库中的活动建立规范流程](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.zh.md)。
