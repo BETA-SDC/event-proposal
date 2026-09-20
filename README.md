@@ -31,7 +31,7 @@ Common Issue templates:
 
 1. Create a main activity Issue in this repository, with the title format `[event] Activity Name`.
 2. In the main Issue, explain the activity background, owner, time and location, relevant members, and key deadlines.
-3. After entering execution, split poster, registration form, copywriting, venue, material, and other work into Sub-issues, then assign them to corresponding members.
+3. After entering execution, split poster, registration form, copywriting, venue, material, and other work into Sub-issues, then assign them to corresponding members. Sub-issue titles must include the parent activity name and use ` - `, with spaces on both sides, to separate fields, such as `[task] Activity Name - Task Name`.
 4. Create the corresponding branch from the main Issue and prepare the activity proposal, poster information form, notification drafts, and other files on that branch.
 5. Submit a Pull Request, link the original Issue, and merge after the owner reviews it.
 6. After emails, group notices, or publicity copy are officially sent, create a `[message]` Sub-issue under the corresponding activity main Issue and copy the sent content into it in full.
