@@ -3,7 +3,7 @@
 中文 | [English](./README.md)
 
 > [!IMPORTANT]
-> 开始创建活动、分配任务或准备材料前，请先认真阅读 [community 仓库中的活动建立规范流程](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.zh.md)。如果活动涉及拍摄、素材交付或后续宣传，还应阅读 [素材拍摄与交付规范](https://github.com/BETA-SDC/community/blob/main/docs/procedures/media-capture-guidelines.zh.md)。
+> 开始创建活动、分配任务或准备材料前，请先认真阅读 [community 仓库中的活动与宣传](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.zh.md)。如果活动涉及拍摄、素材交付或后续宣传，还应阅读 [素材拍摄与交付规范](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/media-capture-guidelines.zh.md)。
 
 本仓库用于保存 β书院 SDC 活动从提案、任务分配、宣传材料准备到消息归档的可追溯记录。活动讨论、任务分配和通知归档通过 Issue / Sub-issue 完成；活动策划案、海报信息表等文件通过分支和 Pull Request 保存。
 
@@ -36,7 +36,7 @@
 6. 正式发送邮件、群聊通知或宣传文案后，在对应活动主 Issue 下创建 `[message]` 类型 Sub-issue，并把已发送内容完整复制一份归档。
 7. 活动结束后补充参与情况、素材位置、复盘记录和可复用内容。
 
-完整规则以 [活动建立规范流程](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.zh.md) 为准。
+完整规则以 [活动与宣传](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.zh.md) 为准。
 
 ## 活动材料目录命名
 
@@ -97,7 +97,7 @@ YYYY-MM-DD-SERIES-两位期数[-specific-topic]
 
 ## 参考资料
 
-- [活动建立规范流程](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.zh.md)
-- [素材拍摄与交付规范](https://github.com/BETA-SDC/community/blob/main/docs/procedures/media-capture-guidelines.zh.md)
+- [活动与宣传](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.zh.md)
+- [素材拍摄与交付规范](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/media-capture-guidelines.zh.md)
 - [community 文档中心](https://github.com/BETA-SDC/community/blob/main/docs/README.zh.md)
 - [GitHub 使用说明与参考资料](https://github.com/BETA-SDC/community/blob/main/docs/resources/README.zh.md)

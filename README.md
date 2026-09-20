@@ -3,7 +3,7 @@
 [中文](./README.zh.md) | English
 
 > [!IMPORTANT]
-> Before creating activities, assigning tasks, or preparing materials, carefully read the [Event Creation Workflow in the community repository](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.md). If the activity involves photography, media delivery, or later publicity, also read the [Media Capture Guidelines](https://github.com/BETA-SDC/community/blob/main/docs/procedures/media-capture-guidelines.md).
+> Before creating activities, assigning tasks, or preparing materials, carefully read the [Activities and Publicity in the community repository](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.md). If the activity involves photography, media delivery, or later publicity, also read the [Media Capture Guidelines](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/media-capture-guidelines.md).
 
 This repository stores traceable records for Beta College SDC activities, from proposals and task assignment to publicity material preparation and message archiving. Activity discussion, task assignment, and notice archiving are handled through Issues and Sub-issues; files such as activity proposals and poster information forms are saved through branches and Pull Requests.
 
@@ -37,7 +37,7 @@ Common Issue templates:
 6. After emails, group notices, or publicity copy are officially sent, create a `[message]` Sub-issue under the corresponding activity main Issue and copy the sent content into it in full.
 7. After the activity ends, add participation information, media locations, review notes, and reusable materials.
 
-The full rules are in the [Event Creation Workflow](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.md).
+The full rules are in the [Activities and Publicity](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.md).
 
 ## Activity Material Directory Names
 
@@ -98,7 +98,7 @@ At minimum, record:
 
 ## References
 
-- [Event Creation Workflow](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event-creation-workflow.md)
-- [Media Capture Guidelines](https://github.com/BETA-SDC/community/blob/main/docs/procedures/media-capture-guidelines.md)
+- [Activities and Publicity](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.md)
+- [Media Capture Guidelines](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/media-capture-guidelines.md)
 - [community Documentation Center](https://github.com/BETA-SDC/community/blob/main/docs/README.md)
 - [GitHub Help and Reference Materials](https://github.com/BETA-SDC/community/blob/main/docs/resources/README.md)
