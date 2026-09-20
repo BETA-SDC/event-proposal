@@ -46,24 +46,26 @@ Activity materials are usually stored under the corresponding academic year dire
 Directory naming format:
 
 ```text
-YYYY-MM-DD-activity-name-two-digit-sequence
+SERIES-two-digit-session-specific-topic
 ```
 
 Examples:
 
-- [`2026-2027/2026-09-09-math-help-group-01/`](./2026-2027/2026-09-09-math-help-group-01/)
-- [`2026-2027/2026-09-16-group-birthday-ceremony-01/`](./2026-2027/2026-09-16-group-birthday-ceremony-01/)
+- [`2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/)
+- [`2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/)
+- [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/)
 
-When multiple versions, batches, or same-name items need to be distinguished under the same date or activity name, use a two-digit sequence at the end, such as `01` or `02`.
+Series activities use an uppercase series code and a two-digit session number, such as `BETA-MEET-01`. Non-series activities may use a concise lowercase topic directory, such as [`2026-2027/self-study-check-in/`](./2026-2027/self-study-check-in/).
 
 ## Activity Material Files
 
 Each activity directory may contain the following files as needed:
 
-- [`proposal.md`](./2026-2027/2026-09-09-math-help-group-01/proposal.md): activity proposal or activity description, for example [`2026-2027/2026-09-09-math-help-group-01/proposal.md`](./2026-2027/2026-09-09-math-help-group-01/proposal.md)
-- [`poster-information.md`](./2026-2027/2026-09-09-math-help-group-01/poster-information.md): poster information form, for example [`2026-2027/2026-09-09-math-help-group-01/poster-information.md`](./2026-2027/2026-09-09-math-help-group-01/poster-information.md)
-- [`notation-message.md`](./2026-2027/2026-09-16-group-birthday-ceremony-01/notation-message.md): prepared or archived notification copy, for example [`2026-2027/2026-09-16-group-birthday-ceremony-01/notation-message.md`](./2026-2027/2026-09-16-group-birthday-ceremony-01/notation-message.md)
-- [`sign-in/`](./2026-2027/2026-09-16-group-birthday-ceremony-01/sign-in/): sign-in, registration, and participation data directory, for example [`2026-2027/2026-09-16-group-birthday-ceremony-01/sign-in/`](./2026-2027/2026-09-16-group-birthday-ceremony-01/sign-in/)
+- [`README.md`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/README.md): activity directory overview with a main Issue link
+- [`proposal.md`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/proposal.md): activity proposal or activity description, for example [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/proposal.md`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/proposal.md)
+- [`poster-information.md`](./2026-2027/MATH-HELP-ROOM-01-calculus-and-linear-algebra/poster-information.md): poster information form, for example [`2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md`](./2026-2027/BETA-MEET-01-the-field-experience-of-an-ecologist/poster-information.md)
+- [`notification-message.md`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/notification-message.md): optional notification copy draft or backup
+- [`sign-in/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/): sign-in, registration, and participation data directory, for example [`2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/`](./2026-2027/GROUP-BIRTHDAY-01-2026-fall/sign-in/)
 
 Different activities only need the files they actually use. Do not create empty files just to match this list.
 
