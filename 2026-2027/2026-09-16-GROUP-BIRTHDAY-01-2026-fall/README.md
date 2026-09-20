@@ -1,4 +1,4 @@
-# Group Birthday 01 - 2026 Fall
+# Group Birthday 01 2026 Fall
 
 Main issue: [BETA-SDC/event-proposal#4](https://github.com/BETA-SDC/event-proposal/issues/4)
 

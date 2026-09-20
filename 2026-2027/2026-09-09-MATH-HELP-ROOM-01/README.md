@@ -1,4 +1,4 @@
-# Math Help Room 01 - Calculus and Linear Algebra
+# Math Help Room 01 Calculus and Linear Algebra
 
 Main issue: [BETA-SDC/event-proposal#2](https://github.com/BETA-SDC/event-proposal/issues/2)
 
