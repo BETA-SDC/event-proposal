@@ -112,7 +112,7 @@ From the Tibetan Plateau to the World: Professor Li Pan's Ecological Surveys and
 
 **需要重点强调的信息：**
 
-> 在此填写……
+> 重点突出“奇遇”
 
 ---
 
@@ -122,7 +122,7 @@ From the Tibetan Plateau to the World: Professor Li Pan's Ecological Surveys and
 
 **个性化要求：**
 
-> 在此填写……
+> 风格设计上偏手绘动画/手书风，可以把植物加上眼睛和手脚，但不是那种惊悚的，是我头像那种比较可爱的风格。
 
 ---
 
