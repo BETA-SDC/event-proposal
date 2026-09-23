@@ -29,15 +29,17 @@ Common Issue templates:
 
 ## Standard Workflow
 
-1. Create a main activity Issue in this repository, with the title format `[event] Activity Name`.
+1. Create a main activity Issue in this repository. English is recommended for Issues, but Chinese is also accepted. Series activity titles should use “series name + session number + topic”, such as `[event] Beta Meet 08 - The Field Experience of an Ecologist`; `[event] Beta Meet 第8期 - 王璟老师的科幻讲座` is also valid.
 2. In the main Issue, explain the activity background, owner, time and location, relevant members, and key deadlines.
-3. After entering execution, split poster, registration form, copywriting, venue, material, and other work into Sub-issues, then assign them to corresponding members. Sub-issue titles must include the parent activity name and use ` - `, with spaces on both sides, to separate fields, such as `[task] Activity Name - Task Name`.
+3. After entering execution, split poster, registration form, copywriting, venue, material, and other work into Sub-issues, then assign them to corresponding members. Sub-issue titles must copy the parent activity name and use ` - `, with spaces on both sides, to separate fields, such as `[task] Beta Meet 08 - The Field Experience of an Ecologist - Create poster`.
 4. Create the corresponding branch from the main Issue and prepare the activity proposal, poster information form, notification drafts, and other files on that branch.
 5. Submit a Pull Request, link the original Issue, and merge after the owner reviews it.
 6. After emails, group notices, or publicity copy are officially sent, create a `[message]` Sub-issue under the corresponding activity main Issue and copy the sent content into it in full.
 7. After the activity ends, add participation information, media locations, review notes, and reusable materials.
 
 The full rules are in the [Activities and Publicity](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.md).
+
+Issue title rules are separate from repository directory naming. Repository directories continue to use `YYYY-MM-DD-SERIES-two-digit-session[-specific-topic]`; the directory convention does not change based on the preferred Issue language.
 
 ## Activity Material Directory Names
 

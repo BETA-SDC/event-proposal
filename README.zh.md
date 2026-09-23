@@ -28,15 +28,17 @@
 
 ## 标准流程
 
-1. 在本仓库创建活动主 Issue，标题使用 `[event] 活动名称`。
+1. 在本仓库创建活动主 Issue。Issue 推荐使用 English，但中文也允许；系列活动标题使用“系列名称 + 期号 + 主题”，例如 `[event] Beta Meet 08 - The Field Experience of an Ecologist`，中文写法 `[event] Beta Meet 第8期 - 王璟老师的科幻讲座` 也符合规范。
 2. 在主 Issue 中说明活动背景、负责人、时间地点、相关成员和关键截止时间。
-3. 进入执行阶段后，把海报、报名表、文案、场地、物资等工作拆成 Sub-issue，并 assign 给对应成员。Sub-issue 标题必须带上 parent 活动名称，并用前后带空格的 ` - ` 分隔字段，例如 `[task] 活动名称 - 任务名称`。
+3. 进入执行阶段后，把海报、报名表、文案、场地、物资等工作拆成 Sub-issue，并 assign 给对应成员。Sub-issue 标题必须复制 parent 活动名称，并用前后带空格的 ` - ` 分隔字段，例如 `[task] Beta Meet 08 - The Field Experience of an Ecologist - Create poster`。
 4. 从主 Issue 创建对应分支，在分支中准备活动策划案、海报信息表、通知草稿等文件。
 5. 提交 Pull Request，关联原 Issue，由负责人审核后合并。
 6. 正式发送邮件、群聊通知或宣传文案后，在对应活动主 Issue 下创建 `[message]` 类型 Sub-issue，并把已发送内容完整复制一份归档。
 7. 活动结束后补充参与情况、素材位置、复盘记录和可复用内容。
 
 完整规则以 [活动与宣传](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.zh.md) 为准。
+
+Issue 标题标准与仓库目录命名标准分开执行。仓库目录仍使用 `YYYY-MM-DD-SERIES-两位期数[-specific-topic]`，不因 Issue 推荐使用 English 或中文而改变目录命名。
 
 ## 活动材料目录命名
 
