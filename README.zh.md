@@ -99,6 +99,6 @@ YYYY-MM-DD-SERIES-两位期数[-specific-topic]
 
 - [活动与宣传](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.zh.md)
 - [素材拍摄与交付规范](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/media-capture-guidelines.zh.md)
-- [私有信息引用说明](./private-information-reference.zh.md)
+- [私有信息引用说明](https://github.com/BETA-SDC/community/blob/main/docs/procedures/privacy/private-information-reference.zh.md)
 - [community 文档中心](https://github.com/BETA-SDC/community/blob/main/docs/README.zh.md)
 - [GitHub 使用说明与参考资料](https://github.com/BETA-SDC/community/blob/main/docs/resources/README.zh.md)
