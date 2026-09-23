@@ -32,7 +32,7 @@
 
 ## 四、活动分工
 
-活动负责人：刘嘉豪（联系方式见[私有联系人记录](https://github.com/BETA-SDC/community-private-information/blob/main/text/contacts/general.md#contact-liu-jiahao)）
+活动负责人：刘嘉豪（联系方式见[私有联系人记录](https://github.com/BETA-SDC/community-private-information/blob/main/text/contacts/students-2026-2027.md#contact-liu-jiahao)）
 
 | 分工任务 | 人员安排 | 具体内容 |
 | --- | --- | --- |
