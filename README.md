@@ -100,6 +100,6 @@ At minimum, record:
 
 - [Activities and Publicity](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/README.md)
 - [Media Capture Guidelines](https://github.com/BETA-SDC/community/blob/main/docs/procedures/event/media-capture-guidelines.md)
-- [Private Information References](./private-information-reference.md)
+- [Private Information References](https://github.com/BETA-SDC/community/blob/main/docs/procedures/privacy/private-information-reference.md)
 - [community Documentation Center](https://github.com/BETA-SDC/community/blob/main/docs/README.md)
 - [GitHub Help and Reference Materials](https://github.com/BETA-SDC/community/blob/main/docs/resources/README.md)
