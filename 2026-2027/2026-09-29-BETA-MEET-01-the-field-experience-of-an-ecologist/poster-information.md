@@ -46,7 +46,7 @@ From the Tibetan Plateau to the World: Professor Li Pan's Ecological Surveys and
 
 **地点：**
 
-> H4-102
+> H4-103
 
 **具体活动形式**
 
