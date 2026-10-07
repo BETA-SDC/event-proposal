@@ -7,3 +7,4 @@ This directory stores materials for the self-study check-in activity. This is no
 ## Files
 
 - [`poster-information.md`](./poster-information.md): poster information form
+- [`notification-message.md`](./notification-message.md):notification draft or backup
