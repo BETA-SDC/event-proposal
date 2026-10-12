@@ -23,6 +23,8 @@
 
 打车费的发票信息将另行收集；当前尚未计入上述合计，后续根据实际票据补充。
 
+票据整理目录已预留在 [invoice 仓库：2026-10-11 SDC 团建](https://github.com/BETA-SDC/invoice/tree/main/2026/10/2026-10-11-sdc-team-building)，待收集后补充。
+
 ## 参加名单
 
 完整名单及用餐情况见 [`sign-in/README.md`](./sign-in/README.md)。
