@@ -11,7 +11,8 @@
 - 协办：西湖大学手工社（提供烫画机与部分烫画材料）
 - 形式：手工拼豆体验。现场提供豆子、镊子、模板等基础工具和烫豆设备，零基础可上手，做完的作品可以带走
 - 报名：[报名表](https://1qerfocz.jsjform.com/f/EVDYMp)，扫码或点链接填写，名额有限先到先得
-- 日历：已发邮件引用 [2026-11-08-fuse-bead-workshop.ics](https://beta-sdc.github.io/calendar/public/2026/11/2026-11-08-fuse-bead-workshop.ics)，该链接目前返回 404，见「待补」
+- 日历：已发邮件引用 [2026-11-08-fuse-bead-workshop.ics](https://beta-sdc.github.io/calendar/public/2026/11/2026-11-08-fuse-bead-workshop.ics)。
+
 
 ## 活动简介
 
