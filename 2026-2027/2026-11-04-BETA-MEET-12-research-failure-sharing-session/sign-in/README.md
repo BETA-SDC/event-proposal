@@ -20,9 +20,8 @@
 | `00-summary.csv` | 各类别人数 |
 | `01-registered-attended.csv` | 报名且到场，按签到时间排序 |
 | `02-registered-absent.csv` | 报名未到场，按问卷提交时间排序 |
+| `03-registered-cancelled.csv` | 报名后临时取消（空表：无取消记录） |
 | `04-unregistered-attended.csv` | 未报名但到场 |
-
-`03-registered-cancelled.csv` 省略：报名与签到两份名单中均无取消记录。
 
 ## 说明
 
