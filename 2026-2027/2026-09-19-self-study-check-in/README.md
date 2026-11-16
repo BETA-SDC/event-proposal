@@ -8,3 +8,4 @@ This directory stores materials for the self-study check-in activity. This is no
 
 - [`poster-information.md`](./poster-information.md): poster information form
 - [`notification-message.md`](./notification-message.md):notification draft or backup
+- [`reward-message.md`](./reward-message.md): reward distribution notification

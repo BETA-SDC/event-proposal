@@ -22,7 +22,8 @@
 - [`notification-message.md`](./notification-message.md)：2026-11-03 群发邮件的完整备份，内容与归档 Issue [#89](https://github.com/BETA-SDC/event-proposal/issues/89) 一致
 - [`poster-information.md`](./poster-information.md)：海报信息表，含命名、嘉宾、简介、视觉要求与待确认项
 - [`20261104-research-failure-sharing-slides.pptx`](./20261104-research-failure-sharing-slides.pptx)：活动现场使用的 PPT
-- `sign-in/`：报名与签到数据，尚未归档
+- [`proposal.md`](./proposal.md)：活动策划案（活动后补记）
+- [`sign-in/`](./sign-in/README.md)：报名与签到数据（2026-11-09 整理：报名 20 人、实到 9 人）
 
 ## 相关 Issue
 
@@ -36,7 +37,7 @@
 
 ## 待补
 
-- [ ] 报名人数与实到人数，签到表放入 `sign-in/`
+- [x] 报名人数与实到人数，签到表放入 `sign-in/`（2026-11-09 归档，明细见 [`sign-in/00-summary.csv`](./sign-in/00-summary.csv)）
 - [ ] 报名二维码图片（`报名二维码-BetaMeet第十期科研失败经历分享会.png`），起草稿引用了但未随文归档
 - [ ] 三位嘉宾的身份口径（博士生 / 本科生），海报「姓名 + 身份」那行与「书院学长 / 博士生」表述需统一
 - [ ] 海报成品实际印的期号（起草稿写「第十期 / Vol. 10」，主 Issue 与已发邮件均为第12期）
