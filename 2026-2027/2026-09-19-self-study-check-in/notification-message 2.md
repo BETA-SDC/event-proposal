@@ -2,7 +2,7 @@
 
 冬序初临，书香不息。第一期β书院自习打卡营已圆满落幕，不少同学在结伴自习中收获了专注、坚持与并肩同行的伙伴。为继续营造勤学善思的书院氛围，陪伴大家稳步前行，β书院正式开启第二期“自习打卡营”，诚邀各位同学再度赴约。
 
-在这里，依旧有静谧的学习空间、同向奔赴的同窗，让自律成为日常，在日复一日的沉淀中看见自己的成长。
+在这里，依旧有静谧的学习空间、同向奔赴的同窗。坐到桌前，不伪装进度、不内耗比较，真实地面对自己的学力与状态；又一个月，仍是敢开始、敢坚持，在想摆烂的那天还是撑住了。自律成为日常，在日复一日的沉淀中看见自己的成长。
 
 活动时间：2026年11月23日 — 2026年12月23日
 活动地点：西湖大学图书馆
@@ -25,7 +25,7 @@
 Dear Students,
 As winter draws near, the fragrance of books lingers on. The first Self-Study Check-In Camp of Beta College has come to a successful close. Many of you gained focus, perseverance and like-minded companions through studying side by side. To keep fostering a diligent learning atmosphere and accompany you on your academic journey, Beta College is launching the second round of the “Self-Study Check-In Camp”. We sincerely invite you to join us again.
 
-The quiet study space and supportive peers are still here for you. Turn self-discipline into a routine and witness your progress with consistent efforts.
+Here lies a tranquil space for study, alongside peers striving toward the same goal. When you sit down at your desk, you do not fake your progress, nor drain yourself in comparison. You meet your own academic capacity and state honestly. Another month has passed: you still dare to start, dare to persist. Even on days when you felt like slacking off, you held steady. Self‑discipline has become routine, and you witness your own growth amid the quiet accumulation of day after day.
 
 Time: November 23, 2026 – December 23, 2026
 Venue: Westlake University Library
